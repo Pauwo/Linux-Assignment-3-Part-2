@@ -25,3 +25,4 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ## Video Link
 
+[Linux Assignment 3 Part 2 Video](https://youtu.be/4VcEKyHWaPY)
