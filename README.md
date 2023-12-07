@@ -15,10 +15,13 @@ The included backend server runs on port 8080, 127.0.0.1:8080
 
 ## File Locations
 
-| File | Location |
-| ---- | -------- |
-| hello-server | /var/www/ |
-| index.html | /var/www/my-site/ |
-| hello.conf | /etc/nginx/sites-available |
-| hello-server.service | /etc/systemd/system/ |
-| backend.log | /var/log/hello-server |
+| File                 | Location                    |
+|----------------------|-----------------------------|
+| hello-server         | /var/www/                   |
+| index.html           | /var/www/my-site/           |
+| hello.conf           | /etc/nginx/sites-available/ |
+| hello-server.service | /etc/systemd/system/        |
+| backend.log          | /var/log/hello-server/      |
+
+## Video Link
+
