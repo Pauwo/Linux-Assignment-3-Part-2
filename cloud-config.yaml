@@ -7,7 +7,8 @@ users:
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     ssh-authorized-keys:
-      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBZD2MXk9zv0w/h9bu7VbLKBQ2++OtjKXgZmTaG79jcM rjpaulohernandez@yahoo.com
+      - use your own ssh key and email
+      
 packages:
   - ripgrep
   - rsync
